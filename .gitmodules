@@ -1,0 +1,6 @@
+[submodule "simple-ai-agent"]
+	path = simple-ai-agent
+	url = git@github.com:Abdoelabassi/simple-ai-agent.git
+[submodule "advanced-ai-agent"]
+	path = advanced-ai-agent
+	url = git@github.com:Abdoelabassi/advanced-ai-agent.git
